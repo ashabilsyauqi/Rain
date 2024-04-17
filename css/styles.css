@@ -10824,3 +10824,27 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+.diskon-home{
+  position: absolute;
+  
+}
+.garis{
+  position: relative;
+  top: 12px;
+  left: 0;
+  width: 100px;
+  height: 1px;
+  background-color: red;
+}
+.diskon{
+  position: relative;
+  top: 0;
+  left: 200px;
+}
+
+.batas-diskon{
+  font-weight: 500;
+  font-size: 32px;
+  color:#0c63e4;
+}
