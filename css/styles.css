@@ -10827,15 +10827,16 @@ textarea.form-control-lg {
 
 .diskon-home{
   position: absolute;
+  font-size: 24px;
   
 }
 .garis{
   position: relative;
-  top: 12px;
-  left: 0;
-  width: 100px;
-  height: 1px;
-  background-color: red;
+    top: 14px;
+    left: -4px;
+    width: 154px;
+    height: 3px;
+    background-color: red;
 }
 .diskon{
   position: relative;
